@@ -1,12 +1,5 @@
 # Task 3 Texture Mapping & Object Loading:
 
-## Team Members: <br>
-Mohamed Magdy Abdelhady <br>
-Abdelrahman Hassan Sobhei <br>
-Andrew Mohsen <br>
-Abdelrahman Ashraf Fathi <br>
-
-
 # Task Requirment:
 
 It was required to design a 3d sence containing a floor and some objects. <br>
